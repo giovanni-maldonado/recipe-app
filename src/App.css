@@ -51,9 +51,9 @@
   display: flex;
   justify-content: space-around;
   padding: 0.35rem;
-  position: sticky;
+  position: fixed;
   width: 100%;
-  z-index: 99;
+  z-index: 98;
 }
 
 ul {
